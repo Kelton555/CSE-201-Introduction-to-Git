@@ -1,0 +1,6 @@
+CSE 381 - Systems 2
+CSE 374 - Algorithms 1
+MME 201 - Modeling and Design
+STA 301 - Applied Statistics
+ECE 205 - Electric Circuit Analysis 1
+MME 223 - Engineering Materials
